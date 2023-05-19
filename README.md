@@ -1,11 +1,13 @@
-<img width="300" src="https://healthsafe.co.nz/media/uploads/2018/04/HealthSafe-500px.png" />
+[![My Skills](https://skills.thijs.gg/icons?i=react,redux,materialui,styledcomponents,css,html)](https://skills.thijs.gg)
 
-# Challange
+# Challenge
+
+- Create a list of products and a shopping cart saving in LocalStorage
 
 #### What was implemented
 
--   List Products Page with all the products;
--   Cart Modal with the products added to the cart;
+- List Products Page with all the products;
+- Cart Modal with the products added to the cart;
 
 ### Products Structure
 
